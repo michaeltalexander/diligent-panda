@@ -1,5 +1,5 @@
 baseurl = "http://michaeltalexander.netlify.com"
-title = "michaeltalexander"
+title = "michaelalexander"
 
 theme = "hugo-coder"
 
@@ -16,12 +16,12 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Michael Alexander"
+    description = "Michael Alexander's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Security + Development + Operations"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    #footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
 
