@@ -71,11 +71,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-gitlab"
     weight = 2
     url = "https://gitlab.com/michaeltalexander/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/Alexander_MikeT"
+#[[params.social]]
+#    name = "Twitter"
+#    icon = "fab fa-twitter"
+#    weight = 3
+#    url = "https://twitter.com/Alexander_MikeT"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
