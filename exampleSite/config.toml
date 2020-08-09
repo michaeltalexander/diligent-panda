@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
     description = "Michael Alexander's personal website"
     keywords = "blog,developer,personal"
     info = "Security + Development + Operations"
-    avatarurl = "images/avatar__UP.jpg"
+    avatarurl = "images/avatar.jpg"
     #footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
